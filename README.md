@@ -20,7 +20,7 @@ OpenAI/GPT Models 🧠 (or any compatible LLM)
 
 1️⃣ Clone this repository:
 
-git clone https://github.com/your-username/hr-chatbot.git  
+git clone https://github.com/Azad0815/hr-chatbot.git  
 cd hr-chatbot
 2️⃣ Install dependencies:
 
